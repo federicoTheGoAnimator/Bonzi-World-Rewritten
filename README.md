@@ -1,5 +1,7 @@
 # BonziWORLD
 
+Original Project by Joseph14078
+
 This project has been discontinued due to my time being taken up by other responsibilities. Thanks for all the laughs and memes along the way.
 
 All the source code for the server and client is publically available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. Just try to put me somewhere in the credits.
